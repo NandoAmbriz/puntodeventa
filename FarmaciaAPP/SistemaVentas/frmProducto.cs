@@ -33,6 +33,9 @@ namespace SistemaVentas
         
         }
 
+        /// <summary>
+        /// Función CargarDatos: Esta función permite la carga de datos desde la base de datos.
+        /// </summary>
         private void CargarDatos()
         {
 
