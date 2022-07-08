@@ -1,0 +1,27 @@
+D:\WorkSpaceAD\YOUTUBE\SistemadeVentas\CapaDatos\bin\Debug\CapaDatos.dll
+D:\WorkSpaceAD\YOUTUBE\SistemadeVentas\CapaDatos\bin\Debug\CapaDatos.pdb
+D:\WorkSpaceAD\YOUTUBE\SistemadeVentas\CapaDatos\bin\Debug\CapaModelo.dll
+D:\WorkSpaceAD\YOUTUBE\SistemadeVentas\CapaDatos\bin\Debug\CapaModelo.pdb
+D:\WorkSpaceAD\YOUTUBE\SistemadeVentas\CapaDatos\obj\Debug\CapaDatos.csprojAssemblyReference.cache
+D:\WorkSpaceAD\YOUTUBE\SistemadeVentas\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+D:\WorkSpaceAD\YOUTUBE\SistemadeVentas\CapaDatos\obj\Debug\CapaDatos.csproj.CopyComplete
+D:\WorkSpaceAD\YOUTUBE\SistemadeVentas\CapaDatos\obj\Debug\CapaDatos.dll
+D:\WorkSpaceAD\YOUTUBE\SistemadeVentas\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\csrhd\OneDrive\Escritorio\Clases UTSC\4to Cuatrimestre\Estandares y Metricas Para el desarrollo de software\Proyecto\FarmaciaAPP\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\csrhd\OneDrive\Escritorio\Clases UTSC\4to Cuatrimestre\Estandares y Metricas Para el desarrollo de software\Proyecto\FarmaciaAPP\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\csrhd\OneDrive\Escritorio\Clases UTSC\4to Cuatrimestre\Estandares y Metricas Para el desarrollo de software\Proyecto\FarmaciaAPP\CapaDatos\bin\Debug\CapaModelo.dll
+C:\Users\csrhd\OneDrive\Escritorio\Clases UTSC\4to Cuatrimestre\Estandares y Metricas Para el desarrollo de software\Proyecto\FarmaciaAPP\CapaDatos\bin\Debug\CapaModelo.pdb
+C:\Users\csrhd\OneDrive\Escritorio\Clases UTSC\4to Cuatrimestre\Estandares y Metricas Para el desarrollo de software\Proyecto\FarmaciaAPP\CapaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
+C:\Users\csrhd\OneDrive\Escritorio\Clases UTSC\4to Cuatrimestre\Estandares y Metricas Para el desarrollo de software\Proyecto\FarmaciaAPP\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\csrhd\OneDrive\Escritorio\Clases UTSC\4to Cuatrimestre\Estandares y Metricas Para el desarrollo de software\Proyecto\FarmaciaAPP\CapaDatos\obj\Debug\CapaDatos.csproj.CopyComplete
+C:\Users\csrhd\OneDrive\Escritorio\Clases UTSC\4to Cuatrimestre\Estandares y Metricas Para el desarrollo de software\Proyecto\FarmaciaAPP\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\csrhd\OneDrive\Escritorio\Clases UTSC\4to Cuatrimestre\Estandares y Metricas Para el desarrollo de software\Proyecto\FarmaciaAPP\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\NandoAbz\Desktop\FarmaciaAPP\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\NandoAbz\Desktop\FarmaciaAPP\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\NandoAbz\Desktop\FarmaciaAPP\CapaDatos\bin\Debug\CapaModelo.dll
+C:\Users\NandoAbz\Desktop\FarmaciaAPP\CapaDatos\bin\Debug\CapaModelo.pdb
+C:\Users\NandoAbz\Desktop\FarmaciaAPP\CapaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
+C:\Users\NandoAbz\Desktop\FarmaciaAPP\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\NandoAbz\Desktop\FarmaciaAPP\CapaDatos\obj\Debug\CapaDatos.csproj.CopyComplete
+C:\Users\NandoAbz\Desktop\FarmaciaAPP\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\NandoAbz\Desktop\FarmaciaAPP\CapaDatos\obj\Debug\CapaDatos.pdb
