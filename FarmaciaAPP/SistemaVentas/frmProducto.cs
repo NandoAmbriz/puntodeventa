@@ -99,6 +99,7 @@ namespace SistemaVentas
 
         private void btnEditar_Click(object sender, EventArgs e)
         {
+            // Validando que tengamos registros.
             if (dgvProducto.SelectedRows.Count > 0)
             {
                 DataGridViewRow currentRow = dgvProducto.SelectedRows[0];
